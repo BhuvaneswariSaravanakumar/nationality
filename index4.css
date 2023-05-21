@@ -1,0 +1,19 @@
+.heading
+{
+    text-align: center;
+    margin-top: 50px;
+    color: blue;
+}
+.btn-primary
+{
+        background-color: hsl(251, 97%, 49%);
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+      }
